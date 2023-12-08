@@ -167,10 +167,10 @@ function AddEditExam() {
                   <Form.Item label="Category" name="category">
                     <select name="" id="">
                       <option value="">Select Category</option>
-                      <option value="Javascript">English</option>
-                      <option value="React">Hindi</option>
-                      <option value="Node">Punjabi</option>
-                      <option value="MongoDB">French</option>
+                      <option value="English">English</option>
+                      <option value="Hindi">Hindi</option>
+                      <option value="Punjabi">Punjabi</option>
+                      <option value="French">French</option>
                     </select>
                   </Form.Item>
                 </Col>
